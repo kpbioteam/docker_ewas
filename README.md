@@ -12,6 +12,7 @@ Galaxy Workbench for Epigenetics
  * [bwa-meth](https://github.com/brentp/bwa-meth)
  * [metilene](http://www.bioinf.uni-leipzig.de/Software/metilene/)
  * [bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/)
+ * [PileOMeth](https://github.com/dpryan79/PileOMeth)
 
 # Requirements
 
