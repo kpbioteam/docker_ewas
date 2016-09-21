@@ -66,3 +66,11 @@ tools:
   revisions:
   - f7094efef903
 
+- name: pileometh
+  owner: bgruening
+  tool_panel_section_label: "Calling"
+  tool_shed_url: https://toolshed.g2.bx.psu.edu
+  install_resolver_dependencies: True
+  install_tool_dependencies: False
+  revisions:
+  - d1b66015effd
