@@ -74,3 +74,12 @@ tools:
   install_tool_dependencies: False
   revisions:
   - d1b66015effd
+  
+- name: suite_hicup
+  owner: bgruening
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://toolshed.g2.bx.psu.edu
+  install_resolver_dependencies: True
+  install_tool_dependencies: False
+  revisions:
+  - 5456a2c9b90e
