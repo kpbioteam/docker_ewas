@@ -1,10 +1,10 @@
 # Galaxy - Epigenetics
 
-FROM bgruening/galaxy-ngs-preprocessing:17.01
+FROM bgruening/galaxy-ngs-preprocessing:17.05
 
 MAINTAINER Björn A. Grüning, bjoern.gruening@gmail.com
 
-ENV GALAXY_CONFIG_BRAND NGS-preprocessing
+ENV GALAXY_CONFIG_BRAND Epigenetics
 
 # Install tools
 ADD epigenetics.yml $GALAXY_ROOT/tools.yaml
