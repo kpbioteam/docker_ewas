@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/5466/bgruening/docker-galaxy-stable.svg)](https://zenodo.org/badge/latestdoi/5466/bgruening/docker-galaxy-stable)
 [![Build Status](https://travis-ci.org/bgruening/docker-galaxy-epigenetics.svg?branch=master)](https://travis-ci.org/bgruening/docker-galaxy-epigenetics)
-[![Docker Repository on Quay](https://quay.io/repository/galaxy/galaxy-epigenetics/status "Docker Repository on Quay")](https://quay.io/repository/galaxy/galaxy-epigenetics)
+[![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-epigenetics/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-epigenetics)
 
 Galaxy Workbench for Epigenetics
 ================================
