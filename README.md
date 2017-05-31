@@ -14,6 +14,7 @@ Galaxy Workbench for Epigenetics
  * [metilene](http://www.bioinf.uni-leipzig.de/Software/metilene/)
  * [bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/)
  * [PileOMeth](https://github.com/dpryan79/PileOMeth)
+ * [methylKit](https://github.com/al2na/methylKit)
 
 # Requirements
 
