@@ -38,48 +38,32 @@
 
 api_key: admin
 galaxy_instance: http://localhost:8080
+install_resolver_dependencies: True
+install_tool_dependencies: False
 tools:
 - name: metilene
   owner: rnateam
   tool_panel_section_label: "Epigenetics"
-  tool_shed_url: https://toolshed.g2.bx.psu.edu
-  install_resolver_dependencies: True
-  install_tool_dependencies: False
-  revisions:
-  - df838db0b597
 
 - name: bismark
   owner: bgruening
   tool_panel_section_label: "Mapping"
-  tool_shed_url: https://toolshed.g2.bx.psu.edu
-  install_resolver_dependencies: True
-  install_tool_dependencies: False
-  revisions:
-  - 0f8646f22b8d
 
 - name: bwameth
   owner: iuc
   tool_panel_section_label: "Mapping"
-  tool_shed_url: https://toolshed.g2.bx.psu.edu
-  install_resolver_dependencies: True
-  install_tool_dependencies: False
-  revisions:
-  - f7094efef903
+
+- name: data_manager_bwameth_index_builder
+  owner: iuc
 
 - name: pileometh
   owner: bgruening
   tool_panel_section_label: "Calling"
-  tool_shed_url: https://toolshed.g2.bx.psu.edu
-  install_resolver_dependencies: True
-  install_tool_dependencies: False
-  revisions:
-  - d1b66015effd
-  
+
 - name: suite_hicup
   owner: bgruening
   tool_panel_section_label: "Epigenetics"
-  tool_shed_url: https://toolshed.g2.bx.psu.edu
-  install_resolver_dependencies: True
-  install_tool_dependencies: False
-  revisions:
-  - 5456a2c9b90e
+
+- name: methylkit
+  owner: rnateam
+  tool_panel_section_label: "Epigenetics"
