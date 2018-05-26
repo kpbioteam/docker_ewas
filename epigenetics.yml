@@ -67,3 +67,69 @@ tools:
 - name: methylkit
   owner: rnateam
   tool_panel_section_label: "Epigenetics"
+
+- name: methylkit
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+
+
+- name: hicexplorer_hiccorrectmatrix
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicplotdistvscounts
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicpca revision
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicsummatrices
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicaggregatecontacts
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hiccomparematrices
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hiccorrelate
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hictransform
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicplotviewpoint
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicbuildmatrix
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicplotmatrix
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicmergematrixbins
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicplottads
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: hicexplorer_hicfindtads
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
+
+- name: suite_hicexplorer
+  owner: bgruening
+  tool_panel_section_label: Epigenetics
