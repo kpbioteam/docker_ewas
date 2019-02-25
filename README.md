@@ -41,5 +41,5 @@ For more details about this command line or specific usage, please consult the
 
 # Support & Bug Reports
 
-You can file an [github issue](https://github.com/bgruening/docker-galaxy-EWAS/issues) or ask us on the [Galaxy development list](http://lists.bx.psu.edu/listinfo/galaxy-dev).
-# docker-galaxy-ewas
+You can file an [github issue](https://github.com/kpbioteam/docker_ewas/issues) or ask us on the [Galaxy development list](http://lists.bx.psu.edu/listinfo/galaxy-dev).
+# docker_ewas
