@@ -3,18 +3,14 @@
 [![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-epigenetics/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-epigenetics)
 [![Gitter](https://badges.gitter.im/bgruening/docker-galaxy-stable.svg)](https://gitter.im/bgruening/docker-galaxy-stable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Galaxy Workbench for Epigenetics
-================================
+Galaxy Workbench for EWAS Analysis
+==================================
 
-:whale: Galaxy Docker repository for epigenetics data analysis
+:whale: Galaxy Docker repository for population epigenetics data analysis
 
 # Installed tools
 
- * [bwa-meth](https://github.com/brentp/bwa-meth)
- * [metilene](http://www.bioinf.uni-leipzig.de/Software/metilene/)
- * [bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/)
- * [PileOMeth](https://github.com/dpryan79/PileOMeth)
- * [methylKit](https://github.com/al2na/methylKit)
+ * [ewastools](https://github.com/kpbioteam/ewas_galaxy)
 
 # Requirements
 
@@ -26,16 +22,16 @@ Galaxy Workbench for Epigenetics
 To launch:
 
 ```
-docker run -i -t -p 8080:80 bgruening/galaxy-epigenetics
+docker run -i -t -p 8080:80 kpbioteam/galaxy-EWAS
 ```
 
 For more details about this command line or specific usage, please consult the
 [`README`](https://github.com/bgruening/docker-galaxy-stable/blob/master/README.md) of the main Galaxy Docker image, on which the current image is based.
 
 # Contributers
-
+ - Katarzyna Murat
+ - Krzysztof Poterlowicz
  - Bjoern Gruening
- - Bérénice Batut
 
 
 # History
@@ -45,4 +41,5 @@ For more details about this command line or specific usage, please consult the
 
 # Support & Bug Reports
 
-You can file an [github issue](https://github.com/bgruening/docker-galaxy-epigenetics/issues) or ask us on the [Galaxy development list](http://lists.bx.psu.edu/listinfo/galaxy-dev).
+You can file an [github issue](https://github.com/bgruening/docker-galaxy-EWAS/issues) or ask us on the [Galaxy development list](http://lists.bx.psu.edu/listinfo/galaxy-dev).
+# docker-galaxy-ewas
