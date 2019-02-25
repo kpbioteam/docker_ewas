@@ -22,7 +22,7 @@ Galaxy Workbench for EWAS Analysis
 To launch:
 
 ```
-docker run -i -t -p 8080:80 kpbioteam/galaxy-EWAS
+docker run -i -t -p 8080:80 kpbioteam/galaxy-ewas
 ```
 
 For more details about this command line or specific usage, please consult the

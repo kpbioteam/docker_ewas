@@ -1,4 +1,4 @@
-# Galaxy - EWAS
+# galaxy - ewas
 
 FROM quay.io/bgruening/galaxy-ngs-preprocessing:18.05
 
