@@ -43,5 +43,4 @@ install_tool_dependencies: False
 tools:
 - name: ewastools
   owner: kpbioteam
-  revisions: 64:3d083550977f
   tool_panel_section_label: "Epigenetics"
