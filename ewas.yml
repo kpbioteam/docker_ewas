@@ -45,4 +45,4 @@ tools:
   owner: kpbioteam
   tool_panel_section_label: "Epigenetics"
   revisions:
-- '3d083550977f'
+  - '3d083550977f'
