@@ -53,9 +53,9 @@ tools:
   owner: kpbioteam
   tool_panel_section_label: "Convert Formats"
   revisions:
-  - 'dd045606e0bd'
+  - '8556126fd733'
 - name: clusterprofiler_go
   owner: kpbioteam
   tool_panel_section_label: "Epigenetics"
   revisions:
-  - 'e92aff6cd674' 
+  - '434b5ea29183' 
