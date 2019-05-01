@@ -43,19 +43,19 @@ install_tool_dependencies: True
 tools:
 - name: ewastools
   owner: kpbioteam
-  tool_panel_section_label: "Epigenetics"
+  tool_panel_section_label: "EWAS-Galaxy"
   revisions:
   - '3d083550977f'
 - name: chipeakanno_annopeaks
   owner: kpbioteam
-  tool_panel_section_label: "ChIP-seq"
+  tool_panel_section_label: "EWAS-Galaxy"
 - name: clusterprofiler_bitr
   owner: kpbioteam
-  tool_panel_section_label: "Convert Formats"
+  tool_panel_section_label: "EWAS-Galaxy"
   revisions:
   - '8556126fd733'
 - name: clusterprofiler_go
   owner: kpbioteam
-  tool_panel_section_label: "Epigenetics"
+  tool_panel_section_label: "EWAS-Galaxy"
   revisions:
   - '434b5ea29183' 
