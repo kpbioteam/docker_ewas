@@ -1,6 +1,6 @@
 # galaxy - ewas
 
-FROM bgruening/galaxy-deeptools
+FROM bgruening/galaxy-stable
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
