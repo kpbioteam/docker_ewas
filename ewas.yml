@@ -49,7 +49,7 @@ tools:
 - name: chipeakanno_annopeaks
   owner: kpbioteam
   tool_panel_section_label: "EWAS-Galaxy"
-    revisions:
+  revisions:
   - '6f52c0dc56d4'
 - name: clusterprofiler_bitr
   owner: kpbioteam
