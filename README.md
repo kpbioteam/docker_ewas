@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/5466/bgruening/docker-galaxy-stable.svg)](https://zenodo.org/badge/latestdoi/5466/bgruening/docker-galaxy-stable)
 [![Build Status](https://travis-ci.org/bgruening/docker-galaxy-epigenetics.svg?branch=master)](https://travis-ci.org/bgruening/docker-galaxy-epigenetics)
-[![Docker Repository on Quay]https://quay.io/repository/kpbioteam/docker_ewas/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-epigenetics)
+[![Docker Repository on Quay](https://quay.io/repository/kpbioteam/docker_ewas/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-epigenetics)
 [![Gitter](https://badges.gitter.im/bgruening/docker-galaxy-stable.svg)](https://gitter.im/bgruening/docker-galaxy-stable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Galaxy Workbench for EWAS Analysis
