@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bgruening/docker-galaxy-epigenetics.svg?branch=master)](https://travis-ci.org/bgruening/docker-galaxy-epigenetics)
+[![Build Status](https://travis-ci.org/kpbioteam/docker_ewas.svg?branch=master)](https://travis-ci.org/kpbioteam/docker_ewas)
 [![Docker Repository on Quay](https://quay.io/repository/kpbioteam/docker_ewas/status "Docker Repository on Quay")](https://quay.io/repository/kpbioteam/docker_ewas)
 [![Gitter](https://badges.gitter.im/bgruening/docker-galaxy-stable.svg)](https://gitter.im/bgruening/docker-galaxy-stable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
