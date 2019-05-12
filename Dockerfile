@@ -1,6 +1,6 @@
 # galaxy - ewas
 
-FROM bgruening/galaxy-stable
+FROM bgruening/galaxy-ngs-preprocessing:19.01
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
