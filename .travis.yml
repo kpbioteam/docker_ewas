@@ -13,7 +13,7 @@ git:
   submodules: false
 
 before_install:
-  - wget https://raw.githubusercontent.com/bgruening/galaxy-flavor-testing/master/Makefile
+  - wget https://raw.githubusercontent.com/kpoterlowicz/galaxy-flavor-testing/master/Makefile
   - make docker_install
   - travis_wait 45 make docker_build
   - make docker_run
