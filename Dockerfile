@@ -1,6 +1,6 @@
 # galaxy - ewas
 
-FROM bgruening/galaxy-ngs-preprocessing:18.05
+FROM bgruening/docker-galaxy-stable
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
