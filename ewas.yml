@@ -41,9 +41,6 @@ galaxy_instance: http://localhost:8080
 install_resolver_dependencies: True
 install_tool_dependencies: True
 tools:
-- name: ewastools
-  owner: kpbioteam
-  tool_panel_section_label: "EWAS-Galaxy"
 - name: chipeakanno_annopeaks
   owner: kpbioteam
   tool_panel_section_label: "EWAS-Galaxy"
@@ -51,5 +48,8 @@ tools:
   owner: kpbioteam
   tool_panel_section_label: "EWAS-Galaxy"
 - name: clusterprofiler_go
+  owner: kpbioteam
+  tool_panel_section_label: "EWAS-Galaxy"
+- name: ewastools
   owner: kpbioteam
   tool_panel_section_label: "EWAS-Galaxy"
