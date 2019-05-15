@@ -1,6 +1,6 @@
 # galaxy - ewas
 
-FROM bgruening/docker-galaxy-stable
+FROM bgruening/galaxy-stable
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
