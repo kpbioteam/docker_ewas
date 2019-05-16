@@ -1,6 +1,6 @@
 # galaxy - ewas
 
-FROM quay.io/bgruening/galaxy-epigenetics
+FROM bgruening/galaxy-stable
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
