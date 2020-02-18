@@ -7,7 +7,7 @@ services:
   - docker
 
 env:
-  - TOX_ENV=py27 GALAXY_VERSION=release_19.01
+  - TOX_ENV=py27
 
 git:
   submodules: false
@@ -15,9 +15,9 @@ git:
 before_install:
   - wget https://raw.githubusercontent.com/bgruening/galaxy-flavor-testing/master/Makefile
   - make docker_install
-  - travis_wait 45 make docker_build
+  - travis_wait 60 make docker_build
   - make docker_run
-  - sleep 60
+  - sleep 300
 
 install:
   - make install
@@ -26,4 +26,4 @@ script:
   - make test_api
   - make test_ftp
   - make test_bioblend
-  - make test_docker_in_docker
+  #- make test_docker_in_docker
