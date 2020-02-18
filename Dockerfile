@@ -1,12 +1,15 @@
-# galaxy - ewas
+# Galaxy - EWAS
 
-FROM quay.io/bgruening/galaxy:19.01
+FROM bgruening/galaxy-stable:19.01
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
-ENV GALAXY_CONFIG_BRAND EWAS
+ENV GALAXY_CONFIG_BRAND=EWAS
 
-# Install tools
-ADD  ewas.yml $GALAXY_ROOT/ewas.yaml
-RUN install-tools $GALAXY_ROOT/ewas.yaml && \
-    /tool_deps/_conda/bin/conda clean --tarballs
+ADD ewas.yml $GALAXY_ROOT/tools.yaml
+RUN install-tools $GALAXY_ROOT/tools.yaml && \
+    /tool_deps/_conda/bin/conda clean --tarballs --yes > /dev/null && \
+    rm /export/galaxy-central/ -rf && \
+    mkdir -p $GALAXY_HOME/workflows
+
+
