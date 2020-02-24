@@ -1,6 +1,6 @@
 # Galaxy - EWAS
 
-FROM bgruening/galaxy-stable:19.01
+FROM bgruening/galaxy-stable:19.09
 
 MAINTAINER kpbioteam, kpbioteam@gmail.com
 
